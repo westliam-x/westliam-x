@@ -16,6 +16,7 @@ Degree: BSc. Software engineering, Babcock University, 2024.
 Certifications: Certificate Of completion Frontend Development New Horizon, Certificate of completion Backend Development.
 
 # **Work Experience**
-Backend Software Engineer, Plastic distributor business: Database management, user administration, backend maintainance, Queens Plastics,5 months.
+-- Backend Engineer, Queens Plastics,5 months.
+-- Frontend Engineer, Sterling Bank Plc,5months
 
 Thank you for checking out my profile, and I look forward to hearing from you soon!
